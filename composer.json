@@ -6,6 +6,14 @@
             "email": "omsun123@gmail.com"
         }],
         "require": {},
+        "extra": {
+    "laravel": {
+      "providers": [
+          "Omsun\\Survey\\SurveyServiceProvider"
+      ]
+      
+    }
+  },
         "autoload": {
             "psr-4": {
                 "Omsun\\Survey\\": "survey/"
