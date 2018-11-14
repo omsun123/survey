@@ -1,6 +1,6 @@
 <?php
 
-namespace Survey;
+namespace Omsun\Survey;
 
 use Illuminate\Support\ServiceProvider;
 
