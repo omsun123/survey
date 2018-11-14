@@ -1,0 +1,14 @@
+{
+        "name": "omsun/survey",
+        "description": "A survey package for laravel",
+        "authors": [{
+            "name": "omsun kumar",
+            "email": "omsun123@gmail.com"
+        }],
+        "require": {},
+        "autoload": {
+            "psr-4": {
+                "Omsun\\Survey\\": "survey/"
+            }
+        }
+    }
